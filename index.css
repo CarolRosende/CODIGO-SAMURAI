@@ -1,3 +1,21 @@
+body {
+  background-image: url("./IMG pastor-holandés/_SAM3076.jpg");
+}
+
 h1 {
     color: pink;
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    display: block;
+    margin: auto;
+}
+
+button {
+    background-color: pink;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
